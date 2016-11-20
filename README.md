@@ -1,5 +1,9 @@
 # scripty
 
+## Companion Application Dash Reactor
+
+Manage Scripty lessons with the dashboard web application [Dash Reactor](https://github.com/ALeo23/dashreactor).
+
 ## Running the API server.
 
 We recommend running a `mongod` process pointed to a local folder, for ease of development.
